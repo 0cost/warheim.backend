@@ -1,5 +1,8 @@
 ## Exclude directories
 __pycache__
 
+## Exclude specific directories
+/.venv
+
 ## Exclude specific files
 /db.sqlite3
