@@ -1,1 +1,5 @@
+## Exclude directories
 __pycache__
+
+## Exclude specific files
+/db.sqlite3
